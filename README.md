@@ -1,0 +1,3 @@
+# Krita
+
+//My krita animations
